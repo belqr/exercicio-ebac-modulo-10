@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Tela de Cadastro" src="image.png" width="100%">
+  <img alt="Tela de Cadastro" src="/imagens/image.png" width="100%">
 </p>
 
 ## Tecnologias
